@@ -1,6 +1,6 @@
 # Letterboxd Watchlist Picker Bot
 Этот бот позволяет пользователям выбирать случайные фильмы из их Watchlist на Letterboxd, а также из публичных списков других пользователей.
-[**Ссылка на телеграм бот.**](t.me/letterboxd_watchlist_picker_bot)
+[**Ссылка на телеграм бот.**](https://t.me/letterboxd_watchlist_picker_bot)
 
 ### Команды:
 - /set_username — установить имя пользователя Letterboxd. 
